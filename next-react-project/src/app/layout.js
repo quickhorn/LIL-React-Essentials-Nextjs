@@ -34,7 +34,6 @@ function Header() {
           <div>
             <Link href="/contact">Contact Us</Link>
           </div>
-          
         </nav>
       </div>
     </header>
